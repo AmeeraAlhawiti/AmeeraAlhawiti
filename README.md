@@ -1,7 +1,7 @@
 
 
 <div align ="center">
-  <h3 class="bold">Hello, This is Ameera's Github</h3>
+  <h3 class="bold">Hi, This is Ameera's Github</h3>
 </div>
 <br>
 <div align ="center" style="margin-top: 10px;">
