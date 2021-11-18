@@ -5,9 +5,7 @@
 </div>
 <br>
 <div align ="center" style="margin-top: 10px;">
-  <a href="https://hits.seeyoufarm.com">
-    <img align="center" src= "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAmeeraAlhawiti&count_bg=%232C509E&title_bg=%239A30AA&icon=swift.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
-  </a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAmeeraAlhawiti&count_bg=%233845DD&title_bg=%23B00BD3&icon=swift.svg&icon_color=%23D1C9D0&title=hits&edge_flat=false"/></a>
 </div>
 <br>
 <div align="center" style="margin-top: 10px;">
